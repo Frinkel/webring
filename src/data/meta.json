@@ -1,13 +1,13 @@
 {
-    "title": "Nerds of the 90s",
-    "description": "This is just a demo of a webring. It could be about anything - Metal Bands, Knitting, Craft Beer, Accessibility... For this one, let's just say it's about the good old 90s.",
-    "image": "freakazoid.jpg",
-    "url": "https://webringdemo.netlify.com",
-    "repo": "https://github.com/maxboeck/webring",
+    "title": "Furry Transformation Fans",
+    "description": "This webring is for those who are fans of furry transformation, from the simple and plain to the wild and experimental!",
+    "image": "furrytf-logo.png",
+    "url": "https://community.transfurrmation.town",
+    "repo": "https://github.com/Frinkel/webring/",
     "admins": [
         {
-            "name": "Max Böck",
-            "url": "https://github.com/maxboeck"
+            "name": "Frinkel the Raccoon",
+            "url": "https://transfurrmation.town/Frinkeldoodle"
         }
     ]
 }
