@@ -8,5 +8,10 @@
         "title": "Hypno Vir.us",
         "url": "https://hypnovir.us/",
         "feed": "N/A"
+    },
+    {
+        "title": "Bandie",
+        "url": "https://bandie.org/",
+        "feed": "https://bandie.org/feed.xml"
     }
 ]
